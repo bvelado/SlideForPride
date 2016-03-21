@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideForPride.CSharp.Plugins", "SlideForPride.CSharp.Plugins.csproj", "{334A6659-3AA1-47F2-ABFB-2B8CE3C629B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideForPride.CSharp", "SlideForPride.CSharp.csproj", "{1F5960B7-4771-5C4C-394F-A1D94AC49008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideForPride.CSharp.Editor", "SlideForPride.CSharp.Editor.csproj", "{B1E2A4DC-45A5-E53D-A7E1-80E875151D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{334A6659-3AA1-47F2-ABFB-2B8CE3C629B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{334A6659-3AA1-47F2-ABFB-2B8CE3C629B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{334A6659-3AA1-47F2-ABFB-2B8CE3C629B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{334A6659-3AA1-47F2-ABFB-2B8CE3C629B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5960B7-4771-5C4C-394F-A1D94AC49008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5960B7-4771-5C4C-394F-A1D94AC49008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5960B7-4771-5C4C-394F-A1D94AC49008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5960B7-4771-5C4C-394F-A1D94AC49008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E2A4DC-45A5-E53D-A7E1-80E875151D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E2A4DC-45A5-E53D-A7E1-80E875151D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E2A4DC-45A5-E53D-A7E1-80E875151D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E2A4DC-45A5-E53D-A7E1-80E875151D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
